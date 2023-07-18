@@ -8,4 +8,4 @@ let ekub=(a,b)=>{
     return 1;
 }
 
-console.log(ekub(12,15));
+console.log(ekub(13,15));
